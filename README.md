@@ -23,3 +23,11 @@ I'm always hungry for knowledge and looking to improve me. Passionate about vide
 - Microsoft SQL Server
 - PostgreSQL
 
+:muscle: What I'm striving to improve:
+
+- Business Analysis
+- TDD (Test Driven Development)
+- DDD (Domain Driven Development)
+- Clean Code
+- BPMN
+- UML Diagrams
