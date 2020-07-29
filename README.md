@@ -1,16 +1,23 @@
-### Hi there 👋
+## Maicon Gabriel Friedel
 
-<!--
-**maiconfriedel/maiconfriedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Maicon%20Gabriel%20Friedel-3a465e?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/maicon.friedel/)](https://www.facebook.com/maicon.friedel/)
+[![Linkedin Badge](https://img.shields.io/badge/-Maicon%20Gabriel%20Friedel-3a465e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maicon-gabriel-friedel-882059173/)](https://www.linkedin.com/in/maicon-gabriel-friedel-882059173/)
+[![Gmail Badge](https://img.shields.io/badge/-maicon.friedel@gmail.com-3a465e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maicon.friedel@gmail.com)](mailto:maicon.friedel@gmail.com)
 
-Here are some ideas to get you started:
+I'm always hungry for knowledge and looking to improve me. Passionate about video games, rock'n'roll (specially metalcore/deathcore), and obviously, CODING!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hammer: I’m currently working in Kyly Indústria Têxtil LTDA as Jr. System Analyst
+
+:computer: My skills currently are: 
+
+- C# with .Net Core
+- Entity Framework Core
+- .Net Standard
+- HTML, CSS and Javascript
+- Typescript
+- React
+- React Native
+- Node.js
+- Microsoft SQL Server
+- PostgreSQL
+
