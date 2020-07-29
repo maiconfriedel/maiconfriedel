@@ -6,6 +6,8 @@
 
 I'm always hungry for knowledge and looking to improve me. Passionate about video games, rock'n'roll (specially metalcore/deathcore), and obviously, CODING!
 
+<img src="./vader.png" width="48" height="48" /> "The dark side is strong with this one"
+
 :hammer: I’m currently working in Kyly Indústria Têxtil LTDA as Jr. System Analyst
 
 :computer: My skills currently are: 
