@@ -5,6 +5,6 @@
 
 ### Hi there! :wave:
 
-- :speech_balloon: Ask me about backend with C# .Net Core, HTML, CSS & Javascript, React & React Native, NodeJS, Typescript;
-- :book: I'm currently learning Business Analysis, TDD, DDD, Clean Code, BPMN and UML Diagrams;
-- :zap: Fun fact: I like to coding while listening to metal, mainly Metalcore and Deathcore;
+- :speech_balloon: Ask me about backend with C# .Net Core, HTML, CSS & Javascript, React & React Native, NodeJS, Typescript
+- :book: I'm currently learning Business Analysis, TDD, DDD, Clean Code, BPMN and UML Diagrams
+- :zap: Fun fact: I like to coding while listening to metal, mainly Metalcore and Deathcore :metal:
