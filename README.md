@@ -1,5 +1,3 @@
-## Maicon Gabriel Friedel
-
 [![Linkedin Badge](https://img.shields.io/badge/-Maicon%20Gabriel%20Friedel-3a465e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maicon-gabriel-friedel-882059173/)](https://www.linkedin.com/in/maicon-gabriel-friedel-882059173/)
 [![Gmail Badge](https://img.shields.io/badge/-maicon.friedel@gmail.com-3a465e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maicon.friedel@gmail.com)](mailto:maicon.friedel@gmail.com)
 
