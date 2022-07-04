@@ -6,5 +6,5 @@
 ### Hi there! :wave:
 
 - :speech_balloon: Ask me about backend with C# .Net Core, HTML, CSS & Javascript, React & React Native, NodeJS, Typescript
-- :sunglasses: I have a public react component library: [react-random-avatar](https://github.com/maiconfriedel/react-random-avatar)
+- :sunglasses: I have a public React component library: [react-random-avatar](https://github.com/maiconfriedel/react-random-avatar)
 - :zap: Fun fact: I like to coding while listening to metal, mainly Metalcore and Deathcore :metal:
