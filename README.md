@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to coding while listening to metal, mainly Metalcore and Deathcore 🤘**
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
