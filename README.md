@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconfriedel&label=Profile%20views&color=0e75b6&style=flat" alt="maiconfriedel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maiconfriedel" alt="maiconfriedel" /></a> </p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000)
-
 - 🔭 I’m currently working on [a public React component library: react-random-avatar](https://github.com/maiconfriedel/react-random-avatar)
 
 - 👨‍💻 All of my projects are available at [https://github.com/maiconfriedel?tab=repositories](https://github.com/maiconfriedel?tab=repositories)
@@ -16,6 +12,8 @@
 - 📫 How to reach me **maicon.friedel@gmail.com**
 
 - ⚡ Fun fact **I like to coding while listening to metal, mainly Metalcore and Deathcore 🤘**
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
