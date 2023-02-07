@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maiconfriedel" alt="maiconfriedel" /></a> </p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000)
+
 - 🔭 I’m currently working on [a public React component library: react-random-avatar](https://github.com/maiconfriedel/react-random-avatar)
 
 - 👨‍💻 All of my projects are available at [https://github.com/maiconfriedel?tab=repositories](https://github.com/maiconfriedel?tab=repositories)
