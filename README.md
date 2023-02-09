@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to coding while listening to metal, mainly Metalcore and Deathcore 🤘**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142537587&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=12142537587&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12142537587&cover_image=true&theme=default&show_offline=false&background_color=0D1117)](https://spotify-github-profile.vercel.app/api/view?uid=12142537587&redirect=true)
 [![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=7&width=400&unique=true)](https://open.spotify.com/user/12142537587)
 
 <h3 align="left">Connect with me:</h3>
