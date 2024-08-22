@@ -5,15 +5,26 @@
 
 - 🔭 I have [a public React component library: react-random-avatar](https://github.com/maiconfriedel/react-random-avatar)
 
-- 👨‍💻 All of my projects are available at [https://github.com/maiconfriedel?tab=repositories](https://github.com/maiconfriedel?tab=repositories)
-
-- 💬 Ask me about **backend with C# .Net Core, NodeJS and Typescript** and **frontend with HTML, CSS & Javascript, React & React Native and Typescript**
-
-- 📫 How to reach me: **maicon.friedel@gmail.com**
+- 📫 How to reach me: maicon.friedel@gmail.com
 
 - 🤘 Fun fact: **I like to coding while listening to metal, mainly Metalcore and Deathcore 🤘**
+  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)](https://open.spotify.com/user/12142537587)
+
+[![Spotify Recently Listened Songs](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)](https://open.spotify.com/user/12142537587)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
