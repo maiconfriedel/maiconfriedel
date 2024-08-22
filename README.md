@@ -31,7 +31,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconfriedel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconfriedel&layout=compact&bg_color=333&text_color=fff&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify Recently Listened Songs](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)](https://open.spotify.com/user/12142537587)
 
