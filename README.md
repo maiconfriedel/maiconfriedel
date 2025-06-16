@@ -1,7 +1,7 @@
 <h1 align="center">I'm Maicon Gabriel Friedel👋</h1>
 <h2 align="center">Fullstack Developer | Brazil</h2>
 
-<p>I'm a 27-year-old fullstack developer from Brazil with lot of experience in C# and the .NET platform, as well as front-end development using React.</p>
+<p>I'm a fullstack developer from Brazil with lot of experience in C# and the .NET platform, as well as front-end development using React.</p>
 <p>I enjoy exploring new technologies, and I like Node.js with TypeScript a lot.</p>
 <p>I'm also interested in the world of data science, particularly with Python, Pandas, and Apache Airflow. But I'm just getting started on this journey.</p>
 
@@ -33,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconfriedel&layout=compact&bg_color=212121&text_color=fff&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify Recently Listened Songs](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)](https://open.spotify.com/user/12142537587)
+<!-- [![Spotify Recently Listened Songs](https://spotify-recently-played-readme.vercel.app/api?user=12142537587&count=5&width=1000&unique=true)](https://open.spotify.com/user/12142537587) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
